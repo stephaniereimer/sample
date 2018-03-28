@@ -1,3 +1,8 @@
 this is a sample
+<<<<<<< HEAD
 wow look at this second change
+=======
+hi stephanie
+this is a test.
+>>>>>>> 88fe58b4b9db1dc7d867f44946402bb8c9dbc32e
 
